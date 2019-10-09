@@ -1,3 +1,3 @@
 # fpv-game
 a first person view game that i created on unity.
-this is the final build or build 1/1.
+currently archieved because i have got no time to edit it. but if i want to come back to this project i will update it
